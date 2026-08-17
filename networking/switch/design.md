@@ -28,7 +28,7 @@ Switch.receiveFrame()
       ▼
 Port.transmitFrame()
       │
-      ▼
+      
 Device.receiveFrame()
 
 ---
